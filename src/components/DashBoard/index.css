@@ -1,0 +1,53 @@
+.Nav{
+    display: flex;
+    flex-direction: row;
+    
+}
+
+.leftNav{
+    display: flex;
+    flex-direction: column;
+    margin-right: 30px;
+    
+}
+/* index.css */
+.post-container {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+  }
+  
+  .post-title {
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 5px;
+  }
+  
+  .post-description {
+    font-size: 16px;
+    color: #555;
+  }
+  /* index.css */
+.post-inputs {
+    margin-bottom: 20px;
+  }
+  
+  .post-inputs input,
+  .post-inputs textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .post-inputs button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .post-inputs button:hover {
+    background-color: #0056b3;
+  }
+  

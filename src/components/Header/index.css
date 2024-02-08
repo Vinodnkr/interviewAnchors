@@ -1,0 +1,33 @@
+.header {
+    
+    background-color: #333; /* Set the background color of the header */
+    color: #fff; /* Set the text color */
+    padding: 20px 20px; /* Add padding to the header */
+  }
+  
+
+  
+  .nav-list {
+    display: flex; /* Display the navigation links in a row */
+    flex-direction: row;
+    justify-content: space-between;
+    list-style-type: none; /* Remove bullet points from the list */
+    padding: 0; /* Remove default padding */
+    margin: 0; /* Remove default margin */
+  }
+  
+  .nav-item {
+    margin-right: 10px; /* Add margin between each navigation item */
+  }
+  
+  .nav-link {
+    color: #fff; /* Set the color of the navigation links */
+    text-decoration: none; 
+    
+    font-weight: bold; /* Add bold font weight */
+  }
+  
+  .nav-link:hover {
+    text-decoration: underline; /* Add underline on hover */
+  }
+  

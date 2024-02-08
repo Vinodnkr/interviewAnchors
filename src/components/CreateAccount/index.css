@@ -1,0 +1,16 @@
+.input{
+    width: 30%;
+    height: 40px;
+    border-radius: 20px;
+    padding: 5px;
+    margin: 15px;
+
+}
+button{
+    padding: 20px;
+    border-radius: 25px;
+    background-color: rgb(83, 83, 83);
+    color: white;
+    text-align: center;
+    font-size: large;
+}
